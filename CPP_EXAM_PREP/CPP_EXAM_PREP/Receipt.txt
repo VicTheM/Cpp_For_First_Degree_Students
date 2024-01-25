@@ -1,0 +1,16 @@
+***********************************************************************
+                                BIZARRRG
+                        Mars Community of Aliens
+
+Customer                Jupiter Junior          
+Phone Number            001
+
+Your Order
+
+Product Name            UnitPrice               Quantity Ordered        
+Wheel of Time           10000                   1                       
+                                                *******                 
+                        Total Price:            10000                   
+                                                *******                 
+	Thanks for your Patronage
+***********************************************************************
